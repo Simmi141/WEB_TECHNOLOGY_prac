@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(45deg, #d0d9f1, rgb(135, 152, 231));
+}
+.information{
+    border-radius: 25px;
+    background: #ffffff;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+    margin-left: 60px;
+    width: 90%;
+    height: 550px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  }
+  .sign_in{
+    
+  }
+  .info{
+    text-align: left;
+    margin-left: 80px;
+ 
+  }
+  .info2{
+    border-radius: 250px;
+    background-color: rgb(60, 31, 163);
+    
+  }
